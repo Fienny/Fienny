@@ -1,4 +1,4 @@
-# Hi there, I'm Aziz — Junior Data Engineer / Analyst 👋
+# Hi there, I'm Azizbek — Junior Data Engineer / Analyst 👋
 
 🎓 I recently finished university and am actively building a portfolio to start working in the data field.
 
