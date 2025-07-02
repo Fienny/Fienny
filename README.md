@@ -14,6 +14,7 @@ My goal is to create tools that people can actually use.
 
 📊 Portfolio Highlight:
 - [🌦 Weather ETL Pipeline](https://github.com/Fienny/weather-etl-pipeline) — pulls live weather data via API, stores it in SQLite, and visualizes the temperature data in animated charts.
+- [ETL + Dashboard Project](https://github.com/Fienny/-ETL-Dashboard-project) - CSV -> SQlite -> Dashboard (by streamlit)
 
 🕒 Timezone: UTC+5 (Tashkent)  
 📫 Telegram: [@fie_n](https://t.me/fie_n)  
