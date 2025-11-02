@@ -2,6 +2,12 @@
 
 🎓 I recently finished university and am actively building a portfolio to start working in the data field.
 
+I can help you with:
+• Automating data collection and cleaning (Python + SQL)
+• Building databases and connecting multiple data sources (API, CSV, Sheets)
+• Developing dashboards in Power BI or Streamlit
+• Forecasting sales or demand using time-series models
+
 💻 Tech skills:
 - Python (ETL, APIs, pandas, automation)
 - SQL (PostgreSQL, SQLite — advanced queries & DB design)
